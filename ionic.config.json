@@ -1,0 +1,7 @@
+{
+  "name": "bios",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
